@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gizlilik Politikası | Privacy Policy — Boyama Oyunu: Renklerle Öğren</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; background: #f9f9f9; color: #333; }
+  .container { max-width: 800px; margin: 0 auto; background: #fff; padding: 40px; }
+  h1 { font-size: 26px; color: #6B21A8; margin-bottom: 6px; }
+  h2 { font-size: 18px; color: #6B21A8; margin: 28px 0 10px; border-left: 4px solid #A78BFA; padding-left: 12px; }
+  h3 { font-size: 16px; color: #444; margin: 20px 0 8px; }
+  p { font-size: 14px; line-height: 1.7; margin-bottom: 10px; color: #444; }
+  ul { margin: 8px 0 12px 24px; }
+  li { font-size: 14px; line-height: 1.7; color: #444; margin-bottom: 4px; }
+  .badge { display: inline-block; background: #EDE9FE; color: #6B21A8; border-radius: 6px; padding: 3px 10px; font-size: 13px; font-weight: bold; margin-bottom: 20px; }
+  .lang-divider { border: none; border-top: 3px solid #EDE9FE; margin: 50px 0; }
+  .last-updated { font-size: 13px; color: #888; margin-bottom: 30px; }
+  .contact-box { background: #F5F3FF; border: 1px solid #DDD6FE; border-radius: 10px; padding: 20px; margin-top: 20px; }
+  .highlight { background: #FFF7ED; border-left: 4px solid #FB923C; padding: 12px 16px; border-radius: 4px; margin: 12px 0; font-size: 14px; }
+  a { color: #6B21A8; }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- TÜRKÇE -->
+  <span class="badge">🇹🇷 Türkçe</span>
+  <h1>Gizlilik Politikası</h1>
+  <p class="last-updated">Son güncelleme: Mayıs 2026</p>
+
+  <p><strong>Boyama Oyunu: Renklerle Öğren</strong> uygulaması, <strong>Epidogames</strong> tarafından geliştirilmiştir. Bu gizlilik politikası, uygulamamızı kullandığınızda bilgilerinizin nasıl toplandığını, kullanıldığını ve korunduğunu açıklamaktadır.</p>
+
+  <h2>1. Topladığımız Bilgiler</h2>
+  <p>Uygulamamız, kullanıcıdan doğrudan kişisel bilgi toplamamaktadır. Ancak aşağıdaki üçüncü taraf hizmetler bazı teknik veriler toplayabilir:</p>
+  <ul>
+    <li><strong>Google AdMob:</strong> Reklam gösterimi için kullanılmaktadır. Reklam kimliği gibi teknik veriler toplayabilir.</li>
+    <li><strong>Google Play Faturalandırma:</strong> Uygulama içi satın alımlar için kullanılmaktadır.</li>
+  </ul>
+
+  <h2>2. Reklamlar</h2>
+  <p>Uygulamamızda reklamlar mevcuttur. Reklamlar yalnızca <strong>görev tamamlandıktan sonra</strong> ödül reklamı olarak gösterilir. Boyama süreci boyunca reklam gösterilmez.</p>
+  <div class="highlight">⚠️ Uygulamamız çocuklara yönelik olduğundan, kişiselleştirilmiş reklam gösterilmemektedir. Yalnızca COPPA uyumlu, içeriğe dayalı reklamlar kullanılmaktadır.</div>
+
+  <h2>3. Uygulama İçi Satın Alımlar</h2>
+  <p>Uygulamamızda isteğe bağlı uygulama içi satın alımlar mevcuttur. Tüm satın alımlar <strong>ebeveyn kilidi sistemi</strong> ile korunmaktadır. Çocuklar, ebeveyn onayı olmadan satın alma yapamamaktadır.</p>
+
+  <h2>4. Çocukların Gizliliği (COPPA)</h2>
+  <p>Uygulamamız 2-8 yaş arası çocuklara yöneliktir. Aşağıdaki ilkeler geçerlidir:</p>
+  <ul>
+    <li>13 yaşın altındaki çocuklardan bilerek kişisel veri toplamıyoruz.</li>
+    <li>Çocuklara yönelik kişiselleştirilmiş reklam gösterilmez.</li>
+    <li>Çocuk kullanıcıların verilerini üçüncü taraflarla paylaşmıyoruz.</li>
+    <li>Uygulama, ABD Federal Çocuk Çevrimiçi Gizlilik Koruma Yasası'na (COPPA) uygundur.</li>
+  </ul>
+
+  <h2>5. Veri Güvenliği</h2>
+  <p>Kullanıcı verilerinin güvenliği için makul teknik önlemler almaktayız. Ancak internet üzerinden hiçbir veri iletiminin %100 güvenli olmadığını belirtmek isteriz.</p>
+
+  <h2>6. Üçüncü Taraf Bağlantılar</h2>
+  <p>Uygulamamız üçüncü taraf web sitelerine veya hizmetlerine bağlantı içerebilir. Bu sitelerin gizlilik politikalarından sorumlu değiliz.</p>
+
+  <h2>7. Politika Değişiklikleri</h2>
+  <p>Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Değişiklikler bu sayfada yayınlanacaktır. Uygulamayı kullanmaya devam etmeniz, güncellenmiş politikayı kabul ettiğiniz anlamına gelir.</p>
+
+  <h2>8. İletişim</h2>
+  <div class="contact-box">
+    <p>Gizlilik politikamızla ilgili sorularınız için bizimle iletişime geçin:</p>
+    <p><strong>Geliştirici:</strong> Epidogames</p>
+    <p><strong>E-posta:</strong> <a href="mailto:epidogames@gmail.com">epidogames@gmail.com</a></p>
+  </div>
+
+  <hr class="lang-divider">
+
+  <!-- ENGLISH -->
+  <span class="badge">🇬🇧 English</span>
+  <h1>Privacy Policy</h1>
+  <p class="last-updated">Last updated: May 2026</p>
+
+  <p><strong>Coloring Book: Play & Learn with Colors</strong> is developed by <strong>Epidogames</strong>. This privacy policy explains how information is collected, used, and protected when you use our application.</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>Our application does not directly collect personal information from users. However, the following third-party services may collect some technical data:</p>
+  <ul>
+    <li><strong>Google AdMob:</strong> Used for displaying advertisements. May collect technical data such as advertising ID.</li>
+    <li><strong>Google Play Billing:</strong> Used for in-app purchases.</li>
+  </ul>
+
+  <h2>2. Advertisements</h2>
+  <p>Our app contains advertisements. Ads are shown only as <strong>rewarded ads after task completion</strong>. No ads are shown during the coloring process.</p>
+  <div class="highlight">⚠️ Since our app is directed to children, we do not display personalized ads. Only COPPA-compliant, contextual ads are used.</div>
+
+  <h2>3. In-App Purchases</h2>
+  <p>Our app includes optional in-app purchases. All purchases are protected by a <strong>parental lock system</strong>. Children cannot make purchases without parental approval.</p>
+
+  <h2>4. Children's Privacy (COPPA)</h2>
+  <p>Our app is designed for children ages 2-8. The following principles apply:</p>
+  <ul>
+    <li>We do not knowingly collect personal data from children under 13.</li>
+    <li>No personalized advertising is shown to child users.</li>
+    <li>We do not share children's data with third parties.</li>
+    <li>The app complies with the U.S. Children's Online Privacy Protection Act (COPPA).</li>
+  </ul>
+
+  <h2>5. Data Security</h2>
+  <p>We take reasonable technical measures to protect user data. However, no method of transmission over the internet is 100% secure.</p>
+
+  <h2>6. Third-Party Links</h2>
+  <p>Our app may contain links to third-party websites or services. We are not responsible for their privacy policies.</p>
+
+  <h2>7. Changes to This Policy</h2>
+  <p>We may update this privacy policy from time to time. Changes will be published on this page. Continued use of the app constitutes acceptance of the updated policy.</p>
+
+  <h2>8. Contact Us</h2>
+  <div class="contact-box">
+    <p>For questions about our privacy policy, please contact us:</p>
+    <p><strong>Developer:</strong> Epidogames</p>
+    <p><strong>Email:</strong> <a href="mailto:epidogames@gmail.com">epidogames@gmail.com</a></p>
+  </div>
+
+</div>
+</body>
+</html>
